@@ -1,5 +1,5 @@
 # Blog Elasticsearch
-App tipo blog com funcionalidades básicas desenvidas em PHP com API ElasticSearch.
+App tipo blog com funcionalidades básicas desenvolvidas em PHP+JS com API ElasticSearch em PHP.
 
 ## Requisitos
 * PHP >= 5
